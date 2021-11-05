@@ -48,12 +48,6 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
 [![Start Video](https://github.com/StuffbitsTechnologies/SBTLWebsite/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
 
 
-
-
-
-
-
-
  [1]: http://StuffbitsTechnologies.github.io/SBTLWebsite/documentation/
  [2]: https://github.com/StuffbitsTechnologies/SBTLWebsite/blob/gh-pages/LICENSE
  [3]: http://StuffbitsTechnologies.github.io/SBTLWebsite/info/
